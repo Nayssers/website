@@ -1,9 +1,10 @@
 {
   "audio": "",
+  "title": "<script>alert(1)</script>,
   "image": "../static/images/pages/home/sections/highlights/stereo/matterhorn.jpg",
   "isStereo": true,
   "isYawOnly": false,
-  "preview": "/../../computeMetadata/v1beta1/project/attributes/ssh-keys?alt=json",
+  "preview": "",
   "video": "",
   "pitch": 0,
   "yaw": 1.6
