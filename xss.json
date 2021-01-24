@@ -1,6 +1,6 @@
 {
   "audio": "",
-  "image": "SRC=javascript:alert('XSS')",
+  "image": "SRC=javascript:alert('XSS');.jpeg",
   "isStereo": true,
   "isYawOnly": false,
   "preview": "",
