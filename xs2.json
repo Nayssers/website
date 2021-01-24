@@ -1,6 +1,6 @@
 {
   "audio": "",
-  "image": "../static/images/arcore/hero_fallback.jpg",
+  "image": "https://arvr.google.com/static/images/arcore/hero_fallback.jpg",
   "isStereo": true,
   "isYawOnly": false,
   "preview": "",
