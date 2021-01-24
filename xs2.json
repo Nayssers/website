@@ -1,6 +1,6 @@
 {
   "audio": "",
-  "image": "../static/images/home/icons/hero_1_icon.svg",
+  "image": "../static/images/arcore/hero_fallback.jpg",
   "isStereo": true,
   "isYawOnly": false,
   "preview": "",
