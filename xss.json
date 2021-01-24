@@ -1,6 +1,6 @@
 {
   "audio": "",
-  "image": "https://brutelogic.com.br/poc.svg",
+  "image": "SRC=javascript:alert('XSS')",
   "isStereo": true,
   "isYawOnly": false,
   "preview": "",
