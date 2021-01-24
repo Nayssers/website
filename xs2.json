@@ -1,5 +1,6 @@
 {
   "audio": "",
+  "title": "<h1>Hello</h1>"
   "image": "https://brutelogic.com.br/poc.svg", 
   "type": "image/svg+xml",
   "AllowScriptAccess": "always",
