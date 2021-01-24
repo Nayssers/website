@@ -1,6 +1,6 @@
 {
   "audio": "",
-  "image": "../static/images/pages/home/sections/highlights/stereo/matterhorn.jpg",
+  "image": "/static/images/pages/home/sections/highlights/stereo/matterhorn.jpg",
   "isStereo": true,
   "isYawOnly": false,
   "preview": "",
@@ -8,5 +8,3 @@
   "pitch": 0,
   "yaw": 1.6
 }
-<script>alert(1)</script>
-" onmouseover=prompt(1)
