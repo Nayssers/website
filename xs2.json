@@ -5,7 +5,7 @@
   "AllowScriptAccess": "always",
   "isStereo": true,
   "isYawOnly": false,
-  "preview": "http://metadata.google.internal/computeMetadata/v1beta1/project/attributes/ssh-keys?alt=json",
+  "preview": "https://github.com/Nayssers/nayssers.github.io/blob/gh-pages/XSS.jpeg",
   "video": "",
   "pitch": 0,
   "yaw": 1.6,
