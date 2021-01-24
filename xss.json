@@ -1,0 +1,10 @@
+{
+  "audio": "",
+  "image": "<script>alert(1)</script>",
+  "isStereo": true,
+  "isYawOnly": false,
+  "preview": "",
+  "video": "",
+  "pitch": 0,
+  "yaw": 1.6
+}
