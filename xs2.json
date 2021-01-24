@@ -1,12 +1,12 @@
 {
   "audio": "",
-  "title": "<h1>Hello</h1>"
+  "title": "<h1>Hello</h1>",
   "image": "https://brutelogic.com.br/poc.svg", 
   "type": "image/svg+xml",
   "AllowScriptAccess": "always",
   "isStereo": true,
   "isYawOnly": false,
-  "preview": "https://nayssers.github.io/hey.html",
+  "preview": "",
   "video": "",
   "pitch": 0,
   "yaw": 1.6,
