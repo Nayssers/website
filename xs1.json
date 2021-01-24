@@ -1,0 +1,5 @@
+{
+      "description" : "Basic injection attack",
+      "name" : "SCRIPT w/Alert()",
+      "vector" : "<SCRIPT>alert('XSS')</SCRIPT>"
+   }
