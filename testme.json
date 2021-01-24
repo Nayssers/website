@@ -9,6 +9,6 @@
   "yaw": 1.6
 },
 {
-"xss":alert('1')
+"xss":"alert('1')"
 }
 
