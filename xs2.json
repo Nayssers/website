@@ -1,6 +1,6 @@
 {
   "audio": "",
-  "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADcAAAA3CAAAAACNsI2aAAAACXBIWXMAAAB5[snip...]", 
+  "image": "https://brutelogic.com.br/poc.svg", 
   "type": "image/svg+xml",
   "AllowScriptAccess": "always",
   "isStereo": true,
