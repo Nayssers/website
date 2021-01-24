@@ -1,6 +1,6 @@
 {
   "audio": "",
-  "image": "<script>alert(1)</script>",
+  "image": "../etc/passwd",
   "isStereo": true,
   "isYawOnly": false,
   "preview": "",
