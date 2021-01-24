@@ -6,7 +6,7 @@
   "isStereo": true,
   "isYawOnly": false,
   "preview": "",
-  "video": "'';!--\"<XSS>=&{()}"
+  "video": "'';!--\"<XSS>=&{()}",
   "pitch": 0,
   "yaw": 1.6
 }
