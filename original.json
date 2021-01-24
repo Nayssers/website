@@ -1,8 +1,8 @@
 {
   "audio": "",
-  "id":"Likes pie & security holes."});alert(1);({"name":"Alice","description":"Likes XSS.",
+  "id":"5",
   "title": "<h1 class=%27title%27>Testme</h1>",
-  "image": "../static/images/pages/home/sections/highlights/stereo/matterhorn.jpg",
+  "image": "https://portswigger-labs.net/polyglot/jpeg/xss.jpg",
   "isStereo": true,
   "isYawOnly": false,
   "preview": "",
