@@ -1,11 +1,10 @@
 {
   "audio": "",
   "image": "https://xss.rocks/xss.js",
-  "file": "/etc/passwd",
   "isStereo": true,
   "isYawOnly": false,
   "preview": "",
-  "video": "https://brutelogic.com.br/poc.svg",
+  "video": "",
   "pitch": 0,
   "yaw": 1.6
 }
