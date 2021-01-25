@@ -8,6 +8,6 @@
   "isYawOnly": false,
   "preview": "",
   "video": "",
-  "pitch": {{_Vue.h.constructor`alert(1)`()}},
+  "pitch": "{{_Vue.h.constructor`alert(1)`()}}",
   "yaw": 1.6
 }
