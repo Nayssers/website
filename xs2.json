@@ -1,12 +1,12 @@
 {
   "audio": "",
   "id":"5",
-  "image": "https://dk1hackd4cmmhe5chk28qnmeg5mzao.burpcollaborator.net/image.jpeg",
+  "image": "http://dk1hackd4cmmhe5chk28qnmeg5mzao.burpcollaborator.net/image.jpeg",
   "title": "<h2>jk</h2>",
   "isStereo": true,
   "isYawOnly": false,
   "preview": "",
-  "video": "https://127.0.0.1",
+  "video": "http://127.0.0.1:22/video.mp4",
   "pitch":"",
   "yaw": 1.6
 }
