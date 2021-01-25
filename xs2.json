@@ -1,13 +1,13 @@
 {
   "audio": "",
   "id":"5",
-  "image": "https://gist.githubusercontent.com/random-robbie/dbc7d80c75af03922df1343c45dfceec/raw/ed20c0ef8017abd60be5a3d151af23a52607466b/ssrf.svg",
+  "image": "https://raw.githubusercontent.com/pranav77/XSS-using-SVG-file/master/xss-xml-svg-font-example-poc.svg",
   "title": "<h2>jk</h2>",
   "__proto__.isComplete.name": "<h2>hello</h2>",
   "isStereo": true,
   "isYawOnly": false,
   "preview": "",
   "video": "",
-  "pitch": {{_Vue.h.constructor`alert(1)`()}},
+  "pitch":"",
   "yaw": 1.6
 }
