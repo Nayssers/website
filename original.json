@@ -2,7 +2,7 @@
   "audio": "",
   "id":"5",
   "title": "<h1 class=%27title%27>Testme</h1>",
-  "image": "https://portswigger-labs.net/polyglot/jpeg/xs.jpg onerror=<script>alert(1)</script>"
+  "image": "https://portswigger-labs.net/polyglot/jpeg/xs.jpg onerror=<script>alert(1)</script>",
   "isStereo": true,
   "isYawOnly": false,
   "preview": "",
