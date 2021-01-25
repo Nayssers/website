@@ -6,7 +6,7 @@
   "isStereo": true,
   "isYawOnly": false,
   "preview": "",
-  "video": "https://arvr.google.com/static/videos/home/hero_1.mp4",
+  "video": "data:text/html;base64,PHNjcmlwdD5hbGVydCgiWFNTIik7PC9zY3JpcHQ+Cg==",
   "pitch":"",
   "yaw": 1.6
 }
