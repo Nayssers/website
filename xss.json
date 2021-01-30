@@ -1,10 +1,10 @@
 {
   "audio": "",
   "title": "<image src=x onerror=alert(/XSS/)>",
-  "image": "https://nayssers.github.io/test/%22%3Exss.svg",
+  "image": "https://nayssers.github.io/test/%22>xss.svg",
   "isStereo": true,
   "isYawOnly": false,
-  "preview": "<svg onload=alert(1)",
+  "preview": "",
   "video": "",
   "pitch": "<image src=x onerror=alert(/XSS/)>",
   "yaw": 1.6
