@@ -1,7 +1,7 @@
 {
   "audio": "",
   "title": "<svg onload alert(1)>",
-  "image": "https://raw.githubusercontent.com/Nayssers/nayssers.github.io/gh-pages/test/onerror=alert(1).svg",
+  "image": "https://raw.githubusercontent.com/Nayssers/nayssers.github.io/gh-pages/test/onerror=alert(1)>.svg",
   "isStereo": true,
   "isYawOnly": false,
   "preview": "",
