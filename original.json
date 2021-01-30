@@ -2,7 +2,7 @@
   "audio": "",
   "id":"5",
   "title": "<h1 class=%27title%27>Testme</h1>",
-  "image": "https://nayssers.github.io/javascript:alert('test2').svg",
+  "image": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCINCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3RxbnppbXdydzE5OTN1MzBybWY2YzJjaTE5NzB2cC5idXJwY29sbGFib3JhdG9yLm5ldCI+DQogIDxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjQ1IiBmaWxsPSJncmVlbiINCiAgICAgICAgICBpZD0iZm9vIi8+DQo8L3N2Zz4=",
   "isStereo": true,
   "isYawOnly": false,
   "preview": "",
