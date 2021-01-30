@@ -4,7 +4,7 @@
   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIG9ubG9hZD0iYWxlcnQoZG9jdW1lbnQuZG9tYWluKSIvPg==",
   "isStereo": true,
   "isYawOnly": false,
-  "preview": "",
+  "preview": "<svg onload=alert(1)",
   "video": "",
   "pitch": "<image src=x onerror=alert(/XSS/)>",
   "yaw": 1.6
