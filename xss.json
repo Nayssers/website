@@ -5,7 +5,7 @@
   "isStereo": true,
   "isYawOnly": false,
   "preview": "",
-  "video": "https://nayssers.github.io/ice_video_20201203-015422.mp4 onerror=alert('XSS')",
+  "video": "",
   "pitch": "<image src=x onerror=alert(/XSS/)>",
   "yaw": 1.6
 }
