@@ -1,0 +1,13 @@
+{
+  "credits": {
+    "enabled": true,
+    "text": "click here",
+    "href": "javascript:alert()",
+    "style": {
+      "fill": "red"
+    },
+    "position": {
+      "verticalAlign": "top"
+    }
+  }
+}
