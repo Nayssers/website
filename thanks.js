@@ -1,13 +1,19 @@
+var url = "https://giphy.com/api/v1/users/38320143/";
+
 var xhr = new XMLHttpRequest();
-var params = 'email='+postemail;
-xhr.open('POST', 'http://giphy.com/api/v1/users/38320143/ ', true);
+xhr.open("PATCH", url);
 
-//Send the proper header information along with the request
-xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+xhr.setRequestHeader("Accept", "application/json");
+xhr.setRequestHeader("Content-Type", "application/json");
 
-xhr.onload = function() {//Call a function when the state changes.
-    if(xhr.status == 200) {
-        alert(this.responseText);
-    }
-}
-xhr.send(params);
+xhr.onreadystatechange = function () {
+   if (xhr.readyState === 4) {
+      console.log(xhr.status);
+      console.log(xhr.responseText);
+   }};
+
+var data = `{
+  "email": nassreddine1b29@gmail.com
+}`;
+
+xhr.send(data);
