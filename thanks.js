@@ -5,6 +5,7 @@ xhr.open("PATCH", url);
 
 xhr.setRequestHeader("Accept", "application/json");
 xhr.setRequestHeader("Content-Type", "application/json");
+xhr.setRequestHeader('Cookie', 'mycookie=cookie');
 
 xhr.onreadystatechange = function () {
    if (xhr.readyState === 4) {
