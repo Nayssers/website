@@ -1,6 +1,6 @@
 var http = new XMLHttpRequest();
 var xhr = new XMLHttpRequest();
-var url = 'https://devportal-new.giphy.com/dashboard/';
+var url = 'https://developers.giphy.com/dashboard/';
 var params = 'description=hellomoto&name=hihihi&&name=ok&terms=true';
 http.open('POST', url, true);
 xhr.withCredentials = true;
