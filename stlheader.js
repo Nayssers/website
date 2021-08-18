@@ -1,9 +1,7 @@
 var http = new XMLHttpRequest();
-var xhr = new XMLHttpRequest();
-var url = 'https://developers.giphy.com/dashboard/';
-var params = 'description=hellomoto&name=hihihi&&name=ok&terms=true';
+var url = 'https://devportal-new.giphy.com/dashboard/';
+var params = 'description=HELOJUST&name=hihihi&&name=ok&terms=true';
 http.open('POST', url, true);
-xhr.withCredentials = true;
 
 //Send the proper header information along with the request
 http.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
