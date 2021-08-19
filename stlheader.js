@@ -2,7 +2,7 @@ var http = new XMLHttpRequest();
 var xhr = new XMLHttpRequest();
 var url = 'https://giphy.com/api/v1/users/38283249/';
 var params = 'username=hello9089&display_name=&email=userchange@live.fr';
-http.open('PATCH', url, true);
+http.open('OPTIONS', url, true);
 xhr.withCredentials = true;
 
 //Send the proper header information along with the request
