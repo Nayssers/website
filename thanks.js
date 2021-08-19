@@ -9,7 +9,7 @@ var xhr = new XMLHttpRequest();
         }
     };
     xhr.withCredentials = true;
-    xhr.open("post", "https://devportal-new.giphy.com/dashboard/", true);
+    xhr.open("post", "https://developers.giphy.com/dashboard/", true);
     xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
 
     xhr.send("a=5");
