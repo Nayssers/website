@@ -12,4 +12,4 @@ var xhr = new XMLHttpRequest();
     xhr.open("patch", "https://giphy.com/api/v1/users/38283249/", true);
     xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
 
-    xhr.send("username=Thanksaaalot1&email=2checkout@live.com&display_name=testmeplsSokey");
+    xhr.send("is_public=true");
