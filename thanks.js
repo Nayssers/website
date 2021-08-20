@@ -12,4 +12,4 @@ var xhr = new XMLHttpRequest();
     xhr.open("put", "https://developers.giphy.com/dashboard/", true);
     xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
 
-    xhr.send("username=nadamoussab&email=userchange@live.fr&display_name=testmeplsS");
+    xhr.send("username=Thanksaaalot1&email=2checkout@live.com&display_name=testmeplsSokey");
