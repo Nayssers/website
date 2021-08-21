@@ -12,4 +12,4 @@ var xhr = new XMLHttpRequest();
     xhr.open("post", "https://developers.giphy.com/dashboard/", true);
     xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
 
-    xhr.send("csrfmiddlewaretoken=dxC5WWVAbG2MnFfLHY0d1pUmT4EKHUiSgTBVu6AAy6rW734F6UgtCx7kOp7mEXBe&name=gg&description=dddoo&sdk=false&terms=true");
+    xhr.send("csrfmiddlewaretoken=SWlKcqCNCkXNlLht0N1lSLGiUXUFTknxAJFCpYu9P8ewM30oAiPZovBre2jBrE58&name=gg&description=dddoo&sdk=false&terms=true");
